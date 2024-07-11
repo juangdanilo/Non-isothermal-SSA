@@ -17,8 +17,8 @@ This Python script implements a Stochastic Simulation Algorithm (SSA) for modeli
 ## Requirements
 
 - Python 3.x
-- NumPy
-- Pandas
+- NumPy 1.26.4
+- Pandas 2.2.2
 
 ## Usage
 
